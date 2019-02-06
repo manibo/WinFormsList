@@ -1,0 +1,10 @@
+D:\Документы Максим\Documents\УЧЕБА ШАГ\Программирование\C#\WF 3 26012019\ДЗ\WinFormsList\WinFormsList\bin\Debug\WinFormsList.exe.config
+D:\Документы Максим\Documents\УЧЕБА ШАГ\Программирование\C#\WF 3 26012019\ДЗ\WinFormsList\WinFormsList\bin\Debug\WinFormsList.exe
+D:\Документы Максим\Documents\УЧЕБА ШАГ\Программирование\C#\WF 3 26012019\ДЗ\WinFormsList\WinFormsList\bin\Debug\WinFormsList.pdb
+D:\Документы Максим\Documents\УЧЕБА ШАГ\Программирование\C#\WF 3 26012019\ДЗ\WinFormsList\WinFormsList\obj\Debug\WinFormsList.csprojAssemblyReference.cache
+D:\Документы Максим\Documents\УЧЕБА ШАГ\Программирование\C#\WF 3 26012019\ДЗ\WinFormsList\WinFormsList\obj\Debug\WinFormsList.Form1.resources
+D:\Документы Максим\Documents\УЧЕБА ШАГ\Программирование\C#\WF 3 26012019\ДЗ\WinFormsList\WinFormsList\obj\Debug\WinFormsList.Properties.Resources.resources
+D:\Документы Максим\Documents\УЧЕБА ШАГ\Программирование\C#\WF 3 26012019\ДЗ\WinFormsList\WinFormsList\obj\Debug\WinFormsList.csproj.GenerateResource.cache
+D:\Документы Максим\Documents\УЧЕБА ШАГ\Программирование\C#\WF 3 26012019\ДЗ\WinFormsList\WinFormsList\obj\Debug\WinFormsList.csproj.CoreCompileInputs.cache
+D:\Документы Максим\Documents\УЧЕБА ШАГ\Программирование\C#\WF 3 26012019\ДЗ\WinFormsList\WinFormsList\obj\Debug\WinFormsList.exe
+D:\Документы Максим\Documents\УЧЕБА ШАГ\Программирование\C#\WF 3 26012019\ДЗ\WinFormsList\WinFormsList\obj\Debug\WinFormsList.pdb
